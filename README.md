@@ -23,7 +23,7 @@ I specialize in building high-performance, accessible, and conversion-optimized 
 ---
 
 ### 🚀 Featured Projects
-- **[Custom Rental Logic](https://github.com/dishu1722/Web-Logic-Snippets/tree/main/Projects/Bedding%20Bed%20Linen):** A real-time AJAX pricing engine for service-based businesses.
+- **[Bedding Bed Linen](https://github.com/dishu1722/Web-Logic-Snippets/tree/main/Projects/Bedding%20Bed%20Linen):** A real-time AJAX pricing engine for service-based businesses.
 
 ---
 
