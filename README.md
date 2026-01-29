@@ -23,8 +23,7 @@ I specialize in building high-performance, accessible, and conversion-optimized 
 ---
 
 ### 🚀 Featured Projects
-- **[Custom Rental Logic](https://github.com/dishu1722/Custom-Code):** A real-time AJAX pricing engine for service-based businesses.
-- **[AODA-Compliant Themes](https://github.com/dishu1722/wordpress):** High-performance WordPress solutions refactored for Ontario legal standards.
+- **[Custom Rental Logic](https://github.com/dishu1722/Web-Logic-Snippets/tree/main/Projects/Bedding%20Bed%20Linen):** A real-time AJAX pricing engine for service-based businesses.
 
 ---
 
@@ -32,4 +31,4 @@ I specialize in building high-performance, accessible, and conversion-optimized 
 ![Diksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=dishu1722&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dishu1722&layout=compact&theme=radical)
 
-📫 **How to reach me:** [LinkedIn](YOUR_LINKEDIN_URL_HERE) | diksha.sharma@email.com
+📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/diksha-sharma-617532113/) | dishu0317@gmail.com
