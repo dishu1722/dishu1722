@@ -28,6 +28,7 @@ I specialize in building high-performance, accessible, and conversion-optimized 
 2. **[Bedding Bed Linen](https://github.com/dishu1722/Web-Logic-Snippets/tree/main/Projects/Bedding%20Bed%20Linen):** High-conversion WooCommerce child theme with custom product-grid logic and optimized checkout flow.
 3. **[Buffet Hire](https://github.com/dishu1722/Web-Logic-Snippets/tree/main/Projects/Buffet%20Hire):** A custom WooCommerce booking engine featuring AJAX-driven cart fragments, rental-specific price logic, and a secure Stripe pre-authorization system.
 4. **[Mindful Moving](https://github.com/dishu1722/Web-Logic-Snippets/tree/main/Projects/Mindful%20Moving):** A technical performance case study achieving a 98 Desktop score and 0ms Total Blocking Time through advanced Core Web Vitals optimization and WP-Rocket integration.
+5. **[Mother's Tongue](https://github.com/dishu1722/Web-Logic-Snippets/tree/main/Projects/Mothers%20Tongue):** An engaging, app-aligned educational platform designed with Elementor, featuring custom brand animations and a mobile-first UI for language learning.
 
 
 ### 📂 [**Browse All Projects →**](https://github.com/dishu1722/Web-Logic-Snippets/tree/main/Projects)
