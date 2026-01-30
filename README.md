@@ -26,6 +26,7 @@ I specialize in building high-performance, accessible, and conversion-optimized 
 
 1. **[Behavior Nation](https://github.com/dishu1722/Web-Logic-Snippets/tree/main/Projects/Behavior%20Nation):** Custom enterprise healthcare theme featuring a dynamic AJAX resource-filter system and a low-latency 'Card-Flip' UI for career recruitment.
 2. **[Bedding Bed Linen](https://github.com/dishu1722/Web-Logic-Snippets/tree/main/Projects/Bedding%20Bed%20Linen):** High-conversion WooCommerce child theme with custom product-grid logic and optimized checkout flow.
+3. **[Buffet Hire](https://github.com/dishu1722/Web-Logic-Snippets/tree/main/Projects/Buffet%20Hire):** A custom WooCommerce booking engine featuring AJAX-driven cart fragments, rental-specific price logic, and a secure Stripe pre-authorization system.
 ---
 ### 📂 [**Browse All Projects →**](https://github.com/dishu1722/Web-Logic-Snippets/tree/main/Projects)
 *Explore the full directory of custom builds, including WooCommerce themes and API integrations.*
