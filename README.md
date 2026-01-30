@@ -24,7 +24,7 @@ I specialize in building high-performance, accessible, and conversion-optimized 
 
 ### 🚀 Featured Projects
 
-1. **[Behavior Nation](../Web-Logic-Snippets/Projects/Behavior%20Nation/):** Custom enterprise healthcare theme featuring a dynamic AJAX resource-filter system and a low-latency 'Card-Flip' UI for career recruitment.
+1. **[Behavior Nation](./Web-Logic-Snippets/Projects/Behavior%20Nation/):** Custom enterprise healthcare theme featuring a dynamic AJAX resource-filter system and a low-latency 'Card-Flip' UI for career recruitment.
 2. **[Bedding Bed Linen](./Projects/Bedding-Bed-Linen/):** High-conversion WooCommerce child theme with custom product-grid logic and optimized checkout flow.
 ---
 ### 📂 [**Browse All Projects →**](./Projects/)
