@@ -23,8 +23,9 @@ I specialize in building high-performance, accessible, and conversion-optimized 
 ---
 
 ### 🚀 Featured Projects
-- **[Bedding Bed Linen](https://github.com/dishu1722/Web-Logic-Snippets/tree/main/Projects/Bedding%20Bed%20Linen):** A real-time AJAX pricing engine for service-based businesses.
 
+1. **[Behavior Nation](./Projects/Behavior-Nation-Custom-Theme/):** Custom enterprise healthcare theme featuring a dynamic AJAX resource-filter system and a low-latency 'Card-Flip' UI for career recruitment.
+2. **[Bedding Bed Linen](./Projects/Bedding-Bed-Linen/):** High-conversion WooCommerce child theme with custom product-grid logic and optimized checkout flow.
 ---
 
 ### 📊 GitHub Stats
