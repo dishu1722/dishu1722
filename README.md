@@ -27,5 +27,7 @@ I specialize in building high-performance, accessible, and conversion-optimized 
 1. **[Behavior Nation](./Projects/Behavior-Nation-Custom-Theme/):** Custom enterprise healthcare theme featuring a dynamic AJAX resource-filter system and a low-latency 'Card-Flip' UI for career recruitment.
 2. **[Bedding Bed Linen](./Projects/Bedding-Bed-Linen/):** High-conversion WooCommerce child theme with custom product-grid logic and optimized checkout flow.
 ---
+### 📂 [**Browse All Projects →**](./Projects/)
+*Explore the full directory of custom builds, including WooCommerce themes and API integrations.*
 
 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/diksha-sharma-617532113/) | dishu0317@gmail.com
