@@ -28,8 +28,4 @@ I specialize in building high-performance, accessible, and conversion-optimized 
 2. **[Bedding Bed Linen](./Projects/Bedding-Bed-Linen/):** High-conversion WooCommerce child theme with custom product-grid logic and optimized checkout flow.
 ---
 
-### 📊 GitHub Stats
-![Diksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=dishu1722&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dishu1722&layout=compact&theme=radical)
-
 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/diksha-sharma-617532113/) | dishu0317@gmail.com
