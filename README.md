@@ -1,11 +1,16 @@
 # Hi there, I'm Diksha Sharma 👋
-### WordPress Developer & Software Engineer (B.Eng) 💻
+### WordPress Engineer & Software Engineer (B.Eng)
 
-I specialize in building high-performance, accessible, and conversion-optimized E-commerce solutions. I bridge the gap between engineering logic and user-centric design.
+I am a Full-Stack Developer with a background in Computer Science Engineering, specializing in high-stakes WordPress environments. I bridge the gap between complex engineering logic (PHP/AJAX) and user-centric design (Figma). 
 
-- 🛠️ **Current Focus:** Advanced PHP/AJAX hooks for WooCommerce & AODA/WCAG 2.2 Compliance.
-- 🎓 **Education:** B.Eng in Computer Science.
-- 📍 **Location:** London, Ontario.
+My work focuses on building scalable, accessible, and high-performance digital products that don't just look good—they convert.
+
+- 🏗️ **Engineering:** Specialist in custom WooCommerce hooks, REST APIs, and AJAX-driven interfaces.
+- ♿ **Compliance:** Expert in AODA/WCAG 2.2 accessibility standards, ensuring inclusive digital experiences.
+- 🎨 **Design-to-Code:** Proven track record of translating high-fidelity Figma prototypes into pixel-perfect, lightweight production sites.
+- 🎓 **Background:** B.Eng in Computer Science – I build with clean code and structural integrity in mind.
+
+📍 Based in London, Ontario | 🌍 Working Globally
 
 ---
 
