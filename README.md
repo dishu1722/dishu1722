@@ -25,7 +25,7 @@ I specialize in building high-performance, accessible, and conversion-optimized 
 ### 🚀 Featured Projects
 
 1. **[Mother's Tongue](https://github.com/dishu1722/Web-Logic-Snippets/tree/main/Projects/Mothers%20Tongue):** A luxury international real estate platform featuring a bespoke SVG map engine for regional detection, custom Property CPTs, and a "Figma-to-Live" premium UI/UX.
-2. **[Waldolz](https://github.com/dishu1722/Web-Logic-Snippets/tree/main/Projects/Waldolz):** A luxury international real estate platform featuring a bespoke SVG map engine for regional detection, custom Property CPTs, and a "Figma-to-Live" premium UI/UX. 
+2. **[Waldholz](https://github.com/dishu1722/Web-Logic-Snippets/tree/main/Projects/Waldholz):** A luxury international real estate platform featuring a bespoke SVG map engine for regional detection, custom Property CPTs, and a "Figma-to-Live" premium UI/UX. 
 3. **[Behavior Nation](https://github.com/dishu1722/Web-Logic-Snippets/tree/main/Projects/Behavior%20Nation):** Custom enterprise healthcare theme featuring a dynamic AJAX resource-filter system and a low-latency 'Card-Flip' UI for career recruitment.
 4. **[Bedding Bed Linen](https://github.com/dishu1722/Web-Logic-Snippets/tree/main/Projects/Bedding%20Bed%20Linen):** High-conversion WooCommerce child theme with custom product-grid logic and optimized checkout flow.
 5. **[Buffet Hire](https://github.com/dishu1722/Web-Logic-Snippets/tree/main/Projects/Buffet%20Hire):** A custom WooCommerce booking engine featuring AJAX-driven cart fragments, rental-specific price logic, and a secure Stripe pre-authorization system.
