@@ -24,7 +24,7 @@ I specialize in building high-performance, accessible, and conversion-optimized 
 
 ### 🚀 Featured Projects
 
-1. **[Mother's Tongue](https://github.com/dishu1722/Web-Logic-Snippets/tree/main/Projects/Mothers%20Tongue):** A luxury international real estate platform featuring a bespoke SVG map engine for regional detection, custom Property CPTs, and a "Figma-to-Live" premium UI/UX.
+1. **[Mother's Tongue](https://github.com/dishu1722/Web-Logic-Snippets/tree/main/Projects/Mothers%20Tongue):** An app-aligned educational platform featuring custom brand animations and a mobile-first UI for language learning.
 2. **[Waldholz](https://github.com/dishu1722/Web-Logic-Snippets/tree/main/Projects/Waldholz):** A luxury international real estate platform featuring a bespoke SVG map engine for regional detection, custom Property CPTs, and a "Figma-to-Live" premium UI/UX. 
 3. **[Behavior Nation](https://github.com/dishu1722/Web-Logic-Snippets/tree/main/Projects/Behavior%20Nation):** Custom enterprise healthcare theme featuring a dynamic AJAX resource-filter system and a low-latency 'Card-Flip' UI for career recruitment.
 4. **[Bedding Bed Linen](https://github.com/dishu1722/Web-Logic-Snippets/tree/main/Projects/Bedding%20Bed%20Linen):** High-conversion WooCommerce child theme with custom product-grid logic and optimized checkout flow.
