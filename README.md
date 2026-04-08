@@ -10,7 +10,7 @@ My work focuses on building scalable, accessible, and high-performance digital p
 - 🎨 **Design-to-Code:** Proven track record of translating high-fidelity Figma prototypes into pixel-perfect, lightweight production sites.
 - 🎓 **Background:** B.Eng in Computer Science – I build with clean code and structural integrity in mind.
 
-📍 Based in London, Ontario | 🌍 Working Globally
+📍 Based in Ontario, Canada
 
 ---
 
