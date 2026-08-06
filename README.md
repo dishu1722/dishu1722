@@ -29,7 +29,7 @@ My work focuses on building scalable, accessible, and high-performance digital p
 
 ### 🚀 Featured Projects
 
-1. **[Buffet Hire](https://github.com/dishu1722/wp-event-package-enquiry-engine):** Custom event package & dynamic enquiry engine replacing traditional e-commerce checkout with dynamic URL parameter handoff and WPForms lead capture.
+1. **[wp-event-package-enquiry-engine](https://github.com/dishu1722/wp-event-package-enquiry-engine)**: Custom event package & dynamic enquiry engine replacing traditional e-commerce checkout with URL parameter handoffs and WPForms lead capture.
 2. **[Mother's Tongue](https://github.com/dishu1722/Web-Logic-Snippets/tree/main/Projects/Mothers%20Tongue):** An app-aligned educational platform featuring custom brand animations and a mobile-first UI for language learning.
 3. **[Waldholz](https://github.com/dishu1722/Web-Logic-Snippets/tree/main/Projects/Waldholz):** A luxury international real estate platform featuring a bespoke SVG map engine for regional detection, custom Property CPTs, and a "Figma-to-Live" premium UI/UX. 
 4. **[Behavior Nation](https://github.com/dishu1722/Web-Logic-Snippets/tree/main/Projects/Behavior%20Nation):** Custom enterprise healthcare theme featuring a dynamic AJAX resource-filter system and a low-latency 'Card-Flip' UI for career recruitment.
