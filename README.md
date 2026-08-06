@@ -29,11 +29,11 @@ My work focuses on building scalable, accessible, and high-performance digital p
 
 ### 🚀 Featured Projects
 
-1. **[Mother's Tongue](https://github.com/dishu1722/Web-Logic-Snippets/tree/main/Projects/Mothers%20Tongue):** An app-aligned educational platform featuring custom brand animations and a mobile-first UI for language learning.
-2. **[Waldholz](https://github.com/dishu1722/Web-Logic-Snippets/tree/main/Projects/Waldholz):** A luxury international real estate platform featuring a bespoke SVG map engine for regional detection, custom Property CPTs, and a "Figma-to-Live" premium UI/UX. 
-3. **[Behavior Nation](https://github.com/dishu1722/Web-Logic-Snippets/tree/main/Projects/Behavior%20Nation):** Custom enterprise healthcare theme featuring a dynamic AJAX resource-filter system and a low-latency 'Card-Flip' UI for career recruitment.
-4. **[Bedding Bed Linen](https://github.com/dishu1722/Web-Logic-Snippets/tree/main/Projects/Bedding%20Bed%20Linen):** High-conversion WooCommerce child theme with custom product-grid logic and optimized checkout flow.
-5. **[Buffet Hire](https://github.com/dishu1722/Web-Logic-Snippets/tree/main/Projects/Buffet%20Hire):** A custom WooCommerce booking engine featuring AJAX-driven cart fragments, rental-specific price logic, and a secure Stripe pre-authorization system.
+1. **[Buffet Hire](https://github.com/dishu1722/wp-event-package-enquiry-engine):** Custom event package & dynamic enquiry engine replacing traditional e-commerce checkout with dynamic URL parameter handoff and WPForms lead capture.
+2. **[Mother's Tongue](https://github.com/dishu1722/Web-Logic-Snippets/tree/main/Projects/Mothers%20Tongue):** An app-aligned educational platform featuring custom brand animations and a mobile-first UI for language learning.
+3. **[Waldholz](https://github.com/dishu1722/Web-Logic-Snippets/tree/main/Projects/Waldholz):** A luxury international real estate platform featuring a bespoke SVG map engine for regional detection, custom Property CPTs, and a "Figma-to-Live" premium UI/UX. 
+4. **[Behavior Nation](https://github.com/dishu1722/Web-Logic-Snippets/tree/main/Projects/Behavior%20Nation):** Custom enterprise healthcare theme featuring a dynamic AJAX resource-filter system and a low-latency 'Card-Flip' UI for career recruitment.
+5. **[Bedding Bed Linen](https://github.com/dishu1722/Web-Logic-Snippets/tree/main/Projects/Bedding%20Bed%20Linen):** High-conversion WooCommerce child theme with custom product-grid logic and optimized checkout flow.
 6. **[Mindful Moving](https://github.com/dishu1722/Web-Logic-Snippets/tree/main/Projects/Mindful%20Moving):** A technical performance case study achieving a 98 Desktop score and 0ms Total Blocking Time through advanced Core Web Vitals optimization and WP-Rocket integration.
 
 
